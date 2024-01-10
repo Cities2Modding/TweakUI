@@ -1,0 +1,79 @@
+﻿body.tu-transportation-overview-10 .transportation-overview-panel_VlO
+{
+    height: calc( var(--centerPanelHeight) *.1) !important;
+}
+
+body.tu-transportation-overview-20 .transportation-overview-panel_VlO
+{
+    height: calc( var(--centerPanelHeight) *.2) !important;
+}
+
+body.tu-transportation-overview-30 .transportation-overview-panel_VlO
+{
+    height: calc( var(--centerPanelHeight) *.3) !important;
+}
+
+body.tu-transportation-overview-40 .transportation-overview-panel_VlO
+{
+    height: calc( var(--centerPanelHeight) *.4) !important;
+}
+
+body.tu-transportation-overview-50 .transportation-overview-panel_VlO
+{
+    height: calc( var(--centerPanelHeight) *.5) !important;
+}
+
+body.tu-transportation-overview-60 .transportation-overview-panel_VlO
+{
+    height: calc( var(--centerPanelHeight) *.6) !important;
+}
+
+body.tu-transportation-overview-70 .transportation-overview-panel_VlO
+{
+    height: calc( var(--centerPanelHeight) *.70) !important;
+}
+
+body.tu-transportation-overview-80 .transportation-overview-panel_VlO
+{
+    height: calc( var(--centerPanelHeight) *.80) !important;
+}
+
+body.tu-transportation-overview-90 .transportation-overview-panel_VlO
+{
+    height: calc( var(--centerPanelHeight) *.90) !important;
+}
+
+body.tu-transportation-overview-100 .transportation-overview-panel_VlO
+{
+    height: var(--centerPanelHeight) !important;
+}
+
+body.tu-asset-menu-rows-1
+{
+    --assetMenuRows: 1;
+}
+
+body.tu-asset-menu-rows-2
+{
+    --assetMenuRows: 2;
+}
+
+body.tu-asset-menu-rows-3
+{
+    --assetMenuRows: 3;
+}
+
+body.tu-asset-menu-rows-4
+{
+    --assetMenuRows: 4;
+}
+
+body.tu-asset-menu-rows-5
+{
+    --assetMenuRows: 5;
+}
+
+body.tu-asset-menu-rows-6
+{
+    --assetMenuRows: 6;
+}
